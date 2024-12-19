@@ -15,9 +15,10 @@
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
-    height: 600px;
+    height: 400px;
     opacity: 0.6;
 }
+
 
 .fixed-header{
     position: fixed;
@@ -28,4 +29,8 @@
     color: #fff;
     padding: 20px;
     z-index: 1000;
+}
+
+.bg{
+    background-color: #333;
 }
